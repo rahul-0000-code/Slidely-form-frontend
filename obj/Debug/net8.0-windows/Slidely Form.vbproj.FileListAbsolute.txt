@@ -1,0 +1,43 @@
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Slidely Form.exe
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Slidely Form.deps.json
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Slidely Form.runtimeconfig.json
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Slidely Form.dll
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Slidely Form.pdb
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.vbproj.AssemblyReference.cache
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely_Form.CreateForm.resources
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely_Form.Form.resources
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely_Form.ViewSubmission.resources
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.vbproj.GenerateResource.cache
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.AssemblyInfoInputs.cache
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.AssemblyInfo.vb
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.vbproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.sourcelink.json
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely .8D5FD170.Up2Date
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.dll
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\refint\Slidely Form.dll
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.pdb
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\Slidely Form.genruntimeconfig.cache
+C:\Users\lenovo\Source\Repos\SlidelyAI-Frontend\obj\Debug\net8.0-windows\ref\Slidely Form.dll
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Slidely Form.exe
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Slidely Form.deps.json
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Slidely Form.runtimeconfig.json
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Slidely Form.dll
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Slidely Form.pdb
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.vbproj.AssemblyReference.cache
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely_Form.CreateForm.resources
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely_Form.Form.resources
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely_Form.ViewSubmission.resources
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.vbproj.GenerateResource.cache
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.AssemblyInfoInputs.cache
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.AssemblyInfo.vb
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.vbproj.CoreCompileInputs.cache
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely .8D5FD170.Up2Date
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.dll
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\refint\Slidely Form.dll
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.pdb
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\Slidely Form.genruntimeconfig.cache
+D:\Visual studio\Full stack\SlidelyAI\Slidely-AI Form\obj\Debug\net8.0-windows\ref\Slidely Form.dll
